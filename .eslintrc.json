@@ -1,7 +1,7 @@
 {
   "extends": ["standard-with-typescript"],
-  "space-before-function-paren": "off",
+  "space-before-function-paren": "on",
   "parserOptions": {
-        "project": "./tsconfig.json"
+    "project": "./tsconfig.json"
   }
 }
